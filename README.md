@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there! I'm Andy 👋
+
+I'm a third year Computer Science Student currently attending UC San Diego. I started out doing game development and Robotics, then pivoted to exploring Web Development and Natural Language Processing.  
+
+- I worked with the Qualcomm Institute to create metahuman Avatars for interactive learning by fine tune a Llama3 Model to expand emotion tagging datasets and speak like historical figures.
 
 <!--
 **WishingWell13/WishingWell13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
