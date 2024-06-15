@@ -8,8 +8,7 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
 
 #### Web Development
 - I developed a webiste for Ujima S&P cataloging resources for social and cultural impacts of computing using HTML, CSS, and Javascript
-- I developed the store item page and various Admin pages for ACM's [Portal V2](https://github.com/acmucsd/membership-portal-ui-v2), servicing 5000+ total users.
-- 
+- I developed the store item page and various Admin pages for the [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com) [Portal V2](https://github.com/acmucsd/membership-portal-ui-v2), servicing 5000+ total users.
 <!--
 **WishingWell13/WishingWell13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
