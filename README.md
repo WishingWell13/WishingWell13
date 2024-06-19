@@ -8,7 +8,7 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
 
 #### Web Development
 - At the [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com), I developed the store item page and various Admin pages for [Portal V2](https://github.com/acmucsd/membership-portal-ui-v2) using NextJS and SCSS, servicing 5000+ total users.
-- I developed a webiste for Ujima S&P cataloging resources for social and cultural impacts of computing using HTML, CSS, and Javascript.
+- I developed a webiste for [Ujima S&P](https://sites.google.com/view/ujima-sp-lab/home?authuser=0) cataloging resources for social and cultural impacts of computing using HTML, CSS, and Javascript.
 
 
 #### Game Development 
