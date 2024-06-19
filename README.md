@@ -3,12 +3,13 @@
 I'm a third year Computer Science Student currently attending UC San Diego. I started out doing game development and Robotics, then pivoted to exploring Web Development and Natural Language Processing.  
 
 #### Natural Language Processing
-- I worked with [Ujima S&P](https://sites.google.com/view/ujima-sp-lab/home?authuser=0) to produce a paper analyzing Reddit threads surrounding child saftey on Roblox using Natural Language Processing techniques.
-- I worked with the [Qualcomm Institute](https://qi.ucsd.edu/) to create metahuman Avatars for interactive learning by fine tune a Llama3 Model to expand emotion tagging datasets and speak like historical figures.
+- I worked with [Ujima S&P](https://sites.google.com/view/ujima-sp-lab/home?authuser=0) to produce a paper analyzing Reddit threads surrounding child saftey on Roblox using Python scripts employing Pandas, webscraping, and Natural Language Processing techniques.
+- I worked with the [Qualcomm Institute](https://qi.ucsd.edu/) to create metahuman Avatars for interactive learning by fine tune a Llama3 Model using LlamaFactory to expand emotion tagging datasets and speak like historical figures.
 
 #### Web Development
+- At the [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com), I developed the store item page and various Admin pages for [Portal V2](https://github.com/acmucsd/membership-portal-ui-v2) using NextJS and SCSS, servicing 5000+ total users.
 - I developed a webiste for Ujima S&P cataloging resources for social and cultural impacts of computing using HTML, CSS, and Javascript.
-- At the [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com), I developed the store item page and various Admin pages for [Portal V2](https://github.com/acmucsd/membership-portal-ui-v2), servicing 5000+ total users.
+
 
 #### Game Development 
 - I was part of the team that developed [Andy's Donuts](https://apps.apple.com/us/app/andys-donuts/id1551910340) for the Apple App Store, using the Unity Game Engine.
