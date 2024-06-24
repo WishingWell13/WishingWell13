@@ -14,6 +14,7 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
 - I worked with the [Qualcomm Institute](https://qi.ucsd.edu/) to create metahuman Avatars for interactive learning by fine tune a Llama3 Model using LlamaFactory to expand emotion tagging datasets and speak like historical figures.
 
 #### Web Development
+- At [Cornerstone OnDemand](https://www.cornerstoneondemand.com/), I developed UI components and resolved accessibility bugs with their [Capability Categories](https://help.csod.com/help/csod_0/Content/Core_Functions/Capabilities/Capability_Categories/Manage_Capability_Categories.htm?tocpath=General%20Features%20(Core)%7CCapabilities%20and%20Skills%20Profile%7CCapabilities%20Administration%7CCapability%20Categories%7C_____0) feature.
 - At the [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com), I developed the store item page and various Admin pages for [Portal V2](https://github.com/acmucsd/membership-portal-ui-v2) using NextJS and SCSS, servicing 5000+ total users.
 
 
@@ -27,7 +28,7 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
 
 😄 Pronouns: He/him/his
 
-⚡ Fun fact: I am a Residential Assistant for Revelle College!
+⚡ Fun fact: I am a Residential Assistant for Revelle College at UC San Diego!
 
 <!--
 **WishingWell13/WishingWell13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
