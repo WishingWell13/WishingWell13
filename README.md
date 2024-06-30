@@ -5,7 +5,7 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
 ### 🔭 I’m currently working on
 
 - I'm developing a webiste for [Ujima S&P](https://sites.google.com/view/ujima-sp-lab/home?authuser=0) cataloging resources for social and cultural impacts of computing using HTML, CSS, and Javascript.
-- I'm developing scripts using NLP techniques to analyze trends in how privacy is taught in higher education.
+- I'm also developing scripts using NLP techniques to analyze trends in how privacy is taught in higher education.
 
 ### 🕰️ I previously was working on
 
