@@ -17,7 +17,7 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
 - At [Cornerstone OnDemand](https://www.cornerstoneondemand.com/), I developed UI components and resolved accessibility bugs with their [Capability Categories](https://help.csod.com/help/csod_0/Content/Core_Functions/Capabilities/Capability_Categories/Manage_Capability_Categories.htm?tocpath=General%20Features%20(Core)%7CCapabilities%20and%20Skills%20Profile%7CCapabilities%20Administration%7CCapability%20Categories%7C_____0) feature.
 - At the 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com), I developed the store item page and various Admin pages for [Portal V2](https://github.com/acmucsd/membership-portal-ui-v2) using NextJS and SCSS, servicing 5000+ total users.
 
-### Data Science
+#### Data Science
 
 - As a Tutor for the Computer Science Department at UC San Diego, I wrote scripts to automate the attendance grading process using Python, pandas and pdfmetrics, cutting process time by 75%.
 - For Language Scientific, I used Python and Pandas to automate quality assurance and administrative tasks for translating videos, speeding up the process by 10x.
