@@ -19,7 +19,7 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
 
 #### Data Science
 
-- As a Tutor for the Computer Science Department at UC San Diego, I wrote scripts to automate the attendance grading process using Python, pandas and pdfmetrics, cutting process time by 75%.
+- As a Tutor for the Computer Science Department at UC San Diego, I taught bash scripting and web server basics. I also wrote scripts to automate the attendance grading process using Python, pandas and pdfmetrics, cutting process time by 75%.
 - For Language Scientific, I used Python and Pandas to automate quality assurance and administrative tasks for translating videos, speeding up the process by 10x.
 
 #### Game Development 
