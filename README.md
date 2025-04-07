@@ -28,9 +28,10 @@ I'm a third-year Computer Science Student currently attending UC San Diego. I st
 
 - I am working with the [Qualcomm Institute](https://qi.ucsd.edu/) to visualize voxel space weather data in Virtual Reality using Unreal Engine 5 (UE5).
 
-#### Open Source
+#### UC San Diego - [Working with Large Code Bases (CSE 190)](https://cse190largecodebases.github.io/sp24/) - Course Number CSE 190, Teaching Assistant
 
-- I am a tutor in the class [CSE 190: Working with Large Code Bases](https://cse190largecodebases.github.io/sp24/), teaching how to work with open source codebases like the [IDLE Python Editor](https://docs.python.org/3/library/idle.html). Currently, I am developing the curriculum for how students are assessed on their peer review skills.
+- Teaching in Python with open source codebases like the [IDLE Python Editor](https://docs.python.org/3/library/idle.html).
+- Developing the curriculum for assessing students' peer review skills.
 
 ### 🕰️ I previously was working on
 
