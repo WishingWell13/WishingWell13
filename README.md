@@ -26,7 +26,7 @@ I'm a third-year Computer Science Student currently attending UC San Diego. I st
 
 #### Data Visualization
 
-- I am working with the Qualcomm Institute to visualize voxel space weather data in Virtual Reality using Unreal Engine 5 (UE5).
+- I am working with the [Qualcomm Institute](https://qi.ucsd.edu/) to visualize voxel space weather data in Virtual Reality using Unreal Engine 5 (UE5).
 
 #### Open Source
 
@@ -37,7 +37,7 @@ I'm a third-year Computer Science Student currently attending UC San Diego. I st
 #### Natural Language Processing
 
 - I worked with [Ujima S&P](https://sites.google.com/view/ujima-sp-lab/home?authuser=0) to produce a paper analyzing Reddit threads surrounding child saftey on Roblox using Python scripts employing Pandas, webscraping, and Natural Language Processing techniques.
-- I worked with the [Qualcomm Institute](https://qi.ucsd.edu/) to create metahuman Avatars for interactive learning by fine-tune a Llama3 Model using LlamaFactory to expand emotion tagging datasets and speak like historical figures.
+- I worked with the [Qualcomm Institute](https://qi.ucsd.edu/) to create metahuman Avatars for interactive learning by fine-tuning a Llama3 Model using LlamaFactory to expand emotion tagging datasets and speak like historical figures.
 
 #### Web Development
 
