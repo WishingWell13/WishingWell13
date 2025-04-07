@@ -26,8 +26,6 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
 
 ### 🔭 I’m currently working on
 
-- I'm developing a webiste for [Ujima S&P](https://sites.google.com/view/ujima-sp-lab/home?authuser=0) cataloging resources for social and cultural impacts of computing using HTML, CSS, and Javascript.
-- I'm also developing scripts using NLP techniques to analyze trends in how privacy is taught in higher education.
 
 ### 🕰️ I previously was working on
 
@@ -38,11 +36,14 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
 #### Web Development
 - At [Cornerstone OnDemand](https://www.cornerstoneondemand.com/), I developed UI components and resolved accessibility bugs with their [Capability Categories](https://help.csod.com/help/csod_0/Content/Core_Functions/Capabilities/Capability_Categories/Manage_Capability_Categories.htm?tocpath=General%20Features%20(Core)%7CCapabilities%20and%20Skills%20Profile%7CCapabilities%20Administration%7CCapability%20Categories%7C_____0) feature.
 - At the 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com), I developed the store item page and various Admin pages for [Portal V2](https://github.com/acmucsd/membership-portal-ui-v2) using NextJS and SCSS, servicing 5000+ total users.
+- I managed a team of high school interns to design [this website](https://morethancode.ucsd.edu/) for [Ujima S&P](https://sites.google.com/view/ujima-sp-lab/home?authuser=0) cataloging resources for social and cultural impacts of computing using HTML, CSS, and Javascript.
+
 
 #### Data Science
 
 - As a Tutor for the Computer Science Department at UC San Diego, I taught bash scripting and web server basics. I also wrote scripts to automate the attendance grading process using Python, pandas and pdfmetrics, cutting process time by 75%.
-- For Language Scientific, I used Python and Pandas to automate quality assurance and administrative tasks for translating videos, speeding up the process by 10x.
+- I also developed error logging scripts with Python and Pandas for a project using NLP techniques to analyze trends in how privacy is taught in higher education.
+- For Language Scientific, I used Python and Pandas to automate quality assurance and administrative tasks for translating videos.
 
 #### Game Development 
 - I was part of the team that developed [Andy's Donuts](https://apps.apple.com/us/app/andys-donuts/id1551910340) for the Apple App Store, using the Unity Game Engine.
