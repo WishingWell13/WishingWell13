@@ -1,6 +1,6 @@
 ## Hi there! I'm Andy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I'm a third year Computer Science Student currently attending UC San Diego. I started out doing game development and Robotics, then pivoted to exploring Web Development and Natural Language Processing.  
+I'm a third-year Computer Science Student currently attending UC San Diego. I started out doing game development and Robotics, then pivoted to exploring Web Development and Natural Language Processing.  
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -18,22 +18,29 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
   </div>
 
   <img src="https://komarev.com/ghpvc/?username=WishingWell13&style=flat-square&color=blue" alt=""/>
-  
 </div>
-
 
 
 
 ### 🔭 I’m currently working on
 
+#### Data Visualization
+
+- I am working with the Qualcomm Institute to visualize voxel space weather data in Virtual Reality using Unreal Engine 5 (UE5).
+
+#### Open Source
+
+- I am a tutor in the class [CSE 190: Working with Large Code Bases](https://cse190largecodebases.github.io/sp24/). Currently, I am developing the curriculum for how students are assessed on their peer review skills.
 
 ### 🕰️ I previously was working on
 
 #### Natural Language Processing
+
 - I worked with [Ujima S&P](https://sites.google.com/view/ujima-sp-lab/home?authuser=0) to produce a paper analyzing Reddit threads surrounding child saftey on Roblox using Python scripts employing Pandas, webscraping, and Natural Language Processing techniques.
-- I worked with the [Qualcomm Institute](https://qi.ucsd.edu/) to create metahuman Avatars for interactive learning by fine tune a Llama3 Model using LlamaFactory to expand emotion tagging datasets and speak like historical figures.
+- I worked with the [Qualcomm Institute](https://qi.ucsd.edu/) to create metahuman Avatars for interactive learning by fine-tune a Llama3 Model using LlamaFactory to expand emotion tagging datasets and speak like historical figures.
 
 #### Web Development
+
 - At [Cornerstone OnDemand](https://www.cornerstoneondemand.com/), I developed UI components and resolved accessibility bugs with their [Capability Categories](https://help.csod.com/help/csod_0/Content/Core_Functions/Capabilities/Capability_Categories/Manage_Capability_Categories.htm?tocpath=General%20Features%20(Core)%7CCapabilities%20and%20Skills%20Profile%7CCapabilities%20Administration%7CCapability%20Categories%7C_____0) feature.
 - At the 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com), I developed the store item page and various Admin pages for [Portal V2](https://github.com/acmucsd/membership-portal-ui-v2) using NextJS and SCSS, servicing 5000+ total users.
 - I managed a team of high school interns to design [this website](https://morethancode.ucsd.edu/) for [Ujima S&P](https://sites.google.com/view/ujima-sp-lab/home?authuser=0) cataloging resources for social and cultural impacts of computing using HTML, CSS, and Javascript.
@@ -46,6 +53,7 @@ I'm a third year Computer Science Student currently attending UC San Diego. I st
 - For Language Scientific, I used Python and Pandas to automate quality assurance and administrative tasks for translating videos.
 
 #### Game Development 
+
 - I was part of the team that developed [Andy's Donuts](https://apps.apple.com/us/app/andys-donuts/id1551910340) for the Apple App Store, using the Unity Game Engine.
 - Other games I've helped develop can be found on my [itch.io](https://wishingwell13.itch.io/) page. Two won awards in the Congressional App Challenge!
 
