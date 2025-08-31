@@ -22,6 +22,18 @@ I'm a third-year Computer Science Student currently attending UC San Diego. I st
 
 
 
+### 👨‍💼 Professional Summary
+
+**Current Role**: Computer Science Student at UC San Diego
+
+**Position**: Teaching Assistant at UC San Diego
+
+**Education**: University of California, San Diego
+
+**Location**: San Diego, California, United States
+
+📍 *This information is sourced from my [LinkedIn profile](https://www.linkedin.com/in/andy-smithwick/) for the most up-to-date professional details.*
+
 ### 🔭 I’m currently working on
 
 #### Data Visualization
