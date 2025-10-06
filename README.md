@@ -28,6 +28,18 @@ I started out building games and experimenting with robotics, then branched into
 
 ---
 
+### 👨‍💼 Professional Summary
+
+**Current Role**: Computer Science Student at UC San Diego
+
+**Position**: Teaching Assistant at UC San Diego
+
+**Education**: University of California, San Diego
+
+**Location**: San Diego, California, United States
+
+📍 *This information is sourced from my [LinkedIn profile](https://www.linkedin.com/in/andy-smithwick/) for the most up-to-date professional details.*
+
 ### 🔭 I’m currently working on
 - **Edwards Lifesciences**: Applying NLP and data science to real-world problems in healthcare.  
 - Continuing my BS/MS studies at UCSD, building technical depth in software engineering and machine learning.  
